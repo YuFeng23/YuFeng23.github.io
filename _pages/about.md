@@ -11,6 +11,7 @@ redirect_from:
 
 Hi, my name is Yu Feng (冯玉), and you can call me Alicia. I am currently a graduate student at the National University of Defense Technology , under the supervision of Professor [Xinwang Liu](https://xinwangliu.github.io). Prior to this, I obtained my Bachelor of Science degree in Mathematics from Southwest Jiaotong University.
 
+**E-mail:**  yufeng1261[at]outlook.com; fyu2022[at]163.com
 
 Research
 ======
@@ -21,6 +22,13 @@ My research interests include:
 - Incremental Learning
 - Learning Theory
 - Multi-View Clustering
+
+
+News
+======
+- **[February 28, 2025]** Two papers has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025.
+- **[December 10, 2024]** Two papers have been accepted by AAAI Conference on Artificial Intelligence (**AAAI**) 2025.
+
 
 Hobbies
 ======
