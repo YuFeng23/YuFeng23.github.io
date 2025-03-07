@@ -5,32 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+<h2>Conference</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h3>2025</h3>
+<ol>
+  <li><strong>[CVPR]</strong> Jiyuan Liu, Xinwang Liu, Chuankun Li, Xinhang Wan, Hao Tan, Yi Zhang, Weixuan Liang, Qian Qu, <strong>Yu Feng</strong>, Renxiang Guan, Ke Liang: <em>Large-scale Multi-view Tensor clustering with Implicit Linear Kernels</em>. CVPR 2025. (CCF Rank A)</li>
+  <li><strong>[CVPR]</strong> Yuzhuo Dai, Jiagi Jin, Zhibin Dong, Siwei Wang, Xinwang Liu, En zhu, Xihong Yang, Xinbiao Gan, <strong>Yu Feng</strong>: <em>Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by ConsensusSemantic Learning</em>. CVPR 2025. (CCF Rank A)</li>
+  <li><strong>[AAAI]</strong> <strong>Yu Feng</strong>, Weixuan Liang, Xinhang Wan, Jiyuan Liu, Suyuan Liu, Qian Qu, Renxiang Guan, Huiying Xu, Xinwang Liu: <em>Incremental Nyström-based Multiple Kernel Clustering</em>. AAAI 2025. (CCF Rank A)</li>
+  <li><strong>[AAAI]</strong> Renxiang Guan, Wenxuan Tu, Siwei Wang, Jiyuan Liu, Dayu Hu, Junhong Li, <strong>Yu Feng</strong>, Baili Xiao, Chang Tang, Xinwang Liu: <em>Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data</em>. AAAI 2025. (CCF Rank A)</li>
+</ol>
 
+<h3>2024</h3>
+<ol>
+  <li><strong>[ACM MM]</strong> Qian Qu, Xinhang Wan, Weixuan Liang, Jiyuan Liu, <strong>Yu Feng</strong>, Huiying Xu, Xinwang Liu, En Zhu: <em>A Lightweight Anchor-Based Incremental Framework for Multi-view Clustering</em>. ACM MM 2024. (CCF Rank A)</li>
+  <li><strong>[ACM MM]</strong> Jiaxin Zhang, Yiqi Wang, Xihong Yang, Siwei Wang, <strong>Yu Feng</strong>, Yu Shi, Ruichao Ren, En Zhu, Xinwang Liu: <em>Test-Time Training on Graphs with Large Language Models (LLMs)</em>. <u>ACM MM 2024</u>. (CCF Rank A)</li>
+  <li><strong>[ACM MM]</strong> Fangdi Wang, Siwei Wang, Tianrui Liu, Jiaqi Jin, Zhilin Dong, Xihong Yang, <strong>Yu Feng</strong>, Xinzhong Zhu, Xinwang Liu, En Zhu: <em>View Gap Matters: Cross-view Topology and Information Decoupling for Multi-view Clustering</em>. ACM MM 2024. (CCF Rank A)</li>
+</ol>
 
-
+<h2>Journal</h2>
+<p>Fingers crossed it shows up soon!</p>‌
