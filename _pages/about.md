@@ -28,6 +28,7 @@ News
 ======
 - **[February 28, 2025]** Two papers has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025.
 - **[December 10, 2024]** Two papers have been accepted by AAAI Conference on Artificial Intelligence (**AAAI**) 2025.
+- **[July 16, 2024]** Three papers have been accepted by ACM International Conference on Multimedia (**ACM MM**) 2024.
 
 
 Hobbies
