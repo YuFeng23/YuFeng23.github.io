@@ -33,5 +33,5 @@ News
 
 Hobbies
 ======
-I am a devoted fan of FC Bayern Munich. Football has taught me to persevere until the end at any time and to always be filled with a thirst for victory.
+I am a loyal fan of FC Bayern Munich. Football has taught me that ‘Even in the last minute, everything can turn around’.
 
