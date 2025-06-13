@@ -11,8 +11,8 @@ main:
   - title: "Under Review"
     url: /UR/    
 
- # - title: "Teaching"
-    # url: /teaching/    
+  - title: "CV"
+    url: /CV/    
     
   #- title: "Portfolio"
    # url: /portfolio/
